@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"sakız",
+        "price":0.5,
+        "image":"ahttps://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07124238/07124238-be7324-1650x1650.jpg"
+    },
+    {
+        "id":2,
+        "title":"kola",
+        "price":6,
+        "image":"ahttps://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/8010700/8010700-39bf20-1650x1650.jpg"
+    },
+    {
+        "id":3,
+        "title":"ayakkabı",
+        "price":400,
+        "image":"ahttps://floimages.mncdn.com/media/catalog/product/21-11/15/yazkis-kadin-siyah-uzun-keten-spor-ayakkabi-7331-1636983824.JPG"
+    },
+    {
+        "id":4,
+        "title":"araba",
+        "price":4000,
+        "image":"ahttps://arabam-blog.mncdn.com/wp-content/uploads/2021/05/skoda-fabia-2021.jpg"
+    }
+]
