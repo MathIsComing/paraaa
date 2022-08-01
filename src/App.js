@@ -53,7 +53,7 @@ function App() {
       <Basket total={total} product={products} basket={basket} />
       <button onClick={resetBasket}> Verileri sıfırla</button>
 
-      <h1>Redux 2 ile Sepetimiz</h1>
+      <h1>Redux 1 ile Sepetimiz</h1>
 
       <button onClick={resetBasket}> Verileri sıfırla</button>
     </>
